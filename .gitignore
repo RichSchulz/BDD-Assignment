@@ -1,0 +1,14 @@
+# Local env and venv
+.env
+venv/
+
+# Large data (keep folder structure via .gitkeep)
+F182010.v4/*
+!F182010.v4/.gitkeep
+google_image/*
+!google_image/.gitkeep
+nightlight.npz
+*.tar
+
+# OS
+.DS_Store

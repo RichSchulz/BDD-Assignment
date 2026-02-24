@@ -1,0 +1,14 @@
+# Core
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+imageio
+wget
+retrying
+
+# Optional: for Steps 3, 4, 8 (raster/vector and maps)
+# Install system GDAL first, then:
+#   pip install gdal fiona
+# macOS: brew install gdal
