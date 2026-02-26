@@ -9,6 +9,7 @@ google_image/*
 !google_image/.gitkeep
 nightlight.npz
 *.tar
+datasets/cdr_sample.csv
 
 # OS
 .DS_Store
